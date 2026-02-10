@@ -320,9 +320,11 @@ packages:
   three_dart:
     dependency: "direct main"
     description:
-      path: "../three_dart"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "269320b7c19129f0721e4f7bcd2157e66ae7b04f"
+      url: "https://github.com/2TFD/three_dart.git"
+    source: git
     version: "0.0.16"
   typed_data:
     dependency: transitive
